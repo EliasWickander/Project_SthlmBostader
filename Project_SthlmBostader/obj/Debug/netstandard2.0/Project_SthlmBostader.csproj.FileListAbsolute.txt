@@ -18,3 +18,4 @@ D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netst
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Project_SthlmBostader.dll
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\refint\Project_SthlmBostader.dll
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Project_SthlmBostader.pdb
+D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Project_SthlmBostader.sourcelink.json

@@ -45,8 +45,10 @@
                         Command="{Binding OpenWebCommand}"
                         BackgroundColor="{StaticResource Primary}"
                         TextColor="White" />
+
+                <WebView x:Name="webView" Navigated="OnWebViewNavigated" />
             </StackLayout>
+
         </ScrollView>
     </Grid>
-
 </ContentPage>

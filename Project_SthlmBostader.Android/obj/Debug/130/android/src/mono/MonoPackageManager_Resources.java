@@ -4,6 +4,7 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "Project_SthlmBostader.Android.dll" comes first in this list. */
 		"Project_SthlmBostader.Android.dll",
 		"FormsViewGroup.dll",
+		"HtmlAgilityPack.dll",
 		"Project_SthlmBostader.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
