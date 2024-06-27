@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "Project_SthlmBostader\\Views\\AboutPage.xaml",
+              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\AboutPage.xaml*",
+              "RelativeToolTip": "Project_SthlmBostader\\Views\\AboutPage.xaml*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T17:10:15.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutViewModel.cs",
+              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\ViewModels\\AboutViewModel.cs",
+              "RelativeDocumentMoniker": "Project_SthlmBostader\\ViewModels\\AboutViewModel.cs",
+              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\ViewModels\\AboutViewModel.cs",
+              "RelativeToolTip": "Project_SthlmBostader\\ViewModels\\AboutViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:52:12.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GettingStarted.txt",
+              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\GettingStarted.txt",
+              "RelativeDocumentMoniker": "Project_SthlmBostader\\GettingStarted.txt",
+              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\GettingStarted.txt",
+              "RelativeToolTip": "Project_SthlmBostader\\GettingStarted.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-27T16:50:57.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
