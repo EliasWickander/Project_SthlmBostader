@@ -69,6 +69,8 @@ D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader.Android\obj\Deb
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader.Android\obj\Debug\130\resolvedassemblies.hash
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader.Android\obj\Debug\130\android\assets\FormsViewGroup.dll
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader.Android\obj\Debug\130\android\assets\FormsViewGroup.pdb
+D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader.Android\obj\Debug\130\android\assets\HtmlAgilityPack.dll
+D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader.Android\obj\Debug\130\android\assets\HtmlAgilityPack.pdb
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader.Android\obj\Debug\130\android\assets\Java.Interop.dll
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader.Android\obj\Debug\130\android\assets\Java.Interop.pdb
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader.Android\obj\Debug\130\android\assets\Mono.Android.dll
@@ -639,5 +641,3 @@ D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader.Android\obj\Deb
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
-D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader.Android\obj\Debug\130\android\assets\HtmlAgilityPack.dll
-D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader.Android\obj\Debug\130\android\assets\HtmlAgilityPack.pdb
