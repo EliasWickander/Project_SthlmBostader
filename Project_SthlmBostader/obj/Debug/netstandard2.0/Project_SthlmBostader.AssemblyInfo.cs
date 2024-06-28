@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project_SthlmBostader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+315baceb54551cff4ee4d3154ebc5dba53372349")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+370f9398b4462cfa91bb1cb5c0fcb9ba6787bda9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project_SthlmBostader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project_SthlmBostader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

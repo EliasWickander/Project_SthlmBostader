@@ -1,5 +1,4 @@
-﻿using Project_SthlmBostader.Services;
-using Project_SthlmBostader.Views;
+﻿using Project_SthlmBostader.Views;
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -13,7 +12,6 @@ namespace Project_SthlmBostader
         {
             InitializeComponent();
 
-            DependencyService.Register<MockDataStore>();
             MainPage = new AppShell();
         }
 

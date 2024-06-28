@@ -6,11 +6,6 @@ D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netst
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Project_SthlmBostader.GeneratedMSBuildEditorConfig.editorconfig
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\App.xaml.g.cs
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
-D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
-D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
-D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
-D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
-D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Project_SthlmBostader.AssemblyInfoInputs.cache
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Project_SthlmBostader.AssemblyInfo.cs
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Project_SthlmBostader.csproj.CoreCompileInputs.cache
@@ -19,3 +14,5 @@ D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netst
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\refint\Project_SthlmBostader.dll
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Project_SthlmBostader.pdb
 D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Project_SthlmBostader.sourcelink.json
+D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Views\ArticlesPage.xaml.g.cs
+D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\obj\Debug\netstandard2.0\Views\FiltersPage.xaml.g.cs

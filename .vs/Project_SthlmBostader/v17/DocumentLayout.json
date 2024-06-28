@@ -3,72 +3,36 @@
   "WorkspaceRootPath": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59D83376-C078-4962-B18B-8DEEAD7A9B12}|Project_SthlmBostader.iOS\\Project_SthlmBostader.iOS.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader.ios\\entitlements.plist||{675322CE-C60D-4035-BD80-ECC42B60B553}",
-      "RelativeMoniker": "D:0:0:{59D83376-C078-4962-B18B-8DEEAD7A9B12}|Project_SthlmBostader.iOS\\Project_SthlmBostader.iOS.csproj|solutionrelative:project_sthlmbostader.ios\\entitlements.plist||{675322CE-C60D-4035-BD80-ECC42B60B553}"
+      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\views\\articlespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\views\\articlespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29FDEE15-7537-4AEF-B074-27C69961D3E8}|Project_SthlmBostader.Android\\Project_SthlmBostader.Android.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader.android\\properties\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
-      "RelativeMoniker": "D:0:0:{29FDEE15-7537-4AEF-B074-27C69961D3E8}|Project_SthlmBostader.Android\\Project_SthlmBostader.Android.csproj|solutionrelative:project_sthlmbostader.android\\properties\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59D83376-C078-4962-B18B-8DEEAD7A9B12}|Project_SthlmBostader.iOS\\Project_SthlmBostader.iOS.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader.ios\\info.plist||{4B819833-C3E7-40A8-B4AF-4F7F5E6B913F}",
-      "RelativeMoniker": "D:0:0:{59D83376-C078-4962-B18B-8DEEAD7A9B12}|Project_SthlmBostader.iOS\\Project_SthlmBostader.iOS.csproj|solutionrelative:project_sthlmbostader.ios\\info.plist||{4B819833-C3E7-40A8-B4AF-4F7F5E6B913F}"
+      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\models\\articledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\models\\articledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Project_SthlmBostader.iOS||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\views\\articlespage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\views\\articlespage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29FDEE15-7537-4AEF-B074-27C69961D3E8}|Project_SthlmBostader.Android\\Project_SthlmBostader.Android.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader.android\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29FDEE15-7537-4AEF-B074-27C69961D3E8}|Project_SthlmBostader.Android\\Project_SthlmBostader.Android.csproj|solutionrelative:project_sthlmbostader.android\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Project_SthlmBostader.Android||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29FDEE15-7537-4AEF-B074-27C69961D3E8}|Project_SthlmBostader.Android\\Project_SthlmBostader.Android.csproj|D:\\Dev\\Visual Studio\\Project_SthlmBostader\\project_sthlmbostader.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29FDEE15-7537-4AEF-B074-27C69961D3E8}|Project_SthlmBostader.Android\\Project_SthlmBostader.Android.csproj|solutionrelative:project_sthlmbostader.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\views\\filterspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\views\\filterspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\views\\itemspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\views\\itemspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29FDEE15-7537-4AEF-B074-27C69961D3E8}|Project_SthlmBostader.Android\\Project_SthlmBostader.Android.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader.android\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|aab28e7c-f003-4519-9e1c-af7531e4cacf"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59D83376-C078-4962-B18B-8DEEAD7A9B12}|Project_SthlmBostader.iOS\\Project_SthlmBostader.iOS.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader.ios\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|2df10a93-571c-4d4f-827f-909e0162f482"
+      "AbsoluteMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|d:\\dev\\visual studio\\project_sthlmbostader\\project_sthlmbostader\\views\\filterspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8180C042-F7F6-485A-B399-2D388AE1F9FD}|Project_SthlmBostader\\Project_SthlmBostader.csproj|solutionrelative:project_sthlmbostader\\views\\filterspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,202 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Entitlements.plist",
-              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader.iOS\\Entitlements.plist",
-              "RelativeDocumentMoniker": "Project_SthlmBostader.iOS\\Entitlements.plist",
-              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader.iOS\\Entitlements.plist",
-              "RelativeToolTip": "Project_SthlmBostader.iOS\\Entitlements.plist",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-28T15:59:30.837Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Info.plist",
-              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader.iOS\\Info.plist",
-              "RelativeDocumentMoniker": "Project_SthlmBostader.iOS\\Info.plist",
-              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader.iOS\\Info.plist",
-              "RelativeToolTip": "Project_SthlmBostader.iOS\\Info.plist",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-28T15:55:53.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Project_SthlmBostader.iOS",
-              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader.iOS\\Project_SthlmBostader.iOS.csproj",
-              "RelativeDocumentMoniker": "Project_SthlmBostader.iOS\\Project_SthlmBostader.iOS.csproj",
-              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader.iOS\\Project_SthlmBostader.iOS.csproj",
-              "RelativeToolTip": "Project_SthlmBostader.iOS\\Project_SthlmBostader.iOS.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-28T15:52:29.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader.Android\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "Project_SthlmBostader.Android\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader.Android\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "Project_SthlmBostader.Android\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Title": "ArticleData.cs",
+              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Models\\ArticleData.cs",
+              "RelativeDocumentMoniker": "Project_SthlmBostader\\Models\\ArticleData.cs",
+              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Models\\ArticleData.cs",
+              "RelativeToolTip": "Project_SthlmBostader\\Models\\ArticleData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T15:37:14.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Project_SthlmBostader.Android",
-              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader.Android\\Project_SthlmBostader.Android.csproj",
-              "RelativeDocumentMoniker": "Project_SthlmBostader.Android\\Project_SthlmBostader.Android.csproj",
-              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader.Android\\Project_SthlmBostader.Android.csproj",
-              "RelativeToolTip": "Project_SthlmBostader.Android\\Project_SthlmBostader.Android.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-28T15:38:56.827Z",
+              "WhenOpened": "2024-06-28T16:20:26.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader.Android\\Properties\\AndroidManifest.xml",
-              "RelativeDocumentMoniker": "Project_SthlmBostader.Android\\Properties\\AndroidManifest.xml",
-              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader.Android\\Properties\\AndroidManifest.xml",
-              "RelativeToolTip": "Project_SthlmBostader.Android\\Properties\\AndroidManifest.xml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-06-28T15:36:46.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainActivity.cs",
-              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader.Android\\MainActivity.cs",
-              "RelativeDocumentMoniker": "Project_SthlmBostader.Android\\MainActivity.cs",
-              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader.Android\\MainActivity.cs",
-              "RelativeToolTip": "Project_SthlmBostader.Android\\MainActivity.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAEwA8AAAAAAAAA",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Project_SthlmBostader\\App.xaml.cs",
+              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\App.xaml.cs",
+              "RelativeToolTip": "Project_SthlmBostader\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T18:16:33.948Z"
+              "WhenOpened": "2024-06-28T16:17:47.682Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Project_SthlmBostader\\AppShell.xaml.cs",
+              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\AppShell.xaml.cs",
+              "RelativeToolTip": "Project_SthlmBostader\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:17:25.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\AppShell.xaml",
               "RelativeDocumentMoniker": "Project_SthlmBostader\\AppShell.xaml",
               "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\AppShell.xaml",
               "RelativeToolTip": "Project_SthlmBostader\\AppShell.xaml",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAMwFAAAAAcAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAADwv1EAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-27T17:33:36.264Z"
+              "WhenOpened": "2024-06-28T16:16:18.933Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\App.xaml",
-              "RelativeDocumentMoniker": "Project_SthlmBostader\\App.xaml",
-              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\App.xaml",
-              "RelativeToolTip": "Project_SthlmBostader\\App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-27T17:33:28.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ItemsPage.xaml",
-              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\ItemsPage.xaml",
-              "RelativeDocumentMoniker": "Project_SthlmBostader\\Views\\ItemsPage.xaml",
-              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\ItemsPage.xaml",
-              "RelativeToolTip": "Project_SthlmBostader\\Views\\ItemsPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-27T17:33:22.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Item.cs",
-              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Models\\Item.cs",
-              "RelativeDocumentMoniker": "Project_SthlmBostader\\Models\\Item.cs",
-              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Models\\Item.cs",
-              "RelativeToolTip": "Project_SthlmBostader\\Models\\Item.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "DocumentIndex": 0,
+              "Title": "ArticlesPage.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\ArticlesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_SthlmBostader\\Views\\ArticlesPage.xaml.cs",
+              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\ArticlesPage.xaml.cs",
+              "RelativeToolTip": "Project_SthlmBostader\\Views\\ArticlesPage.xaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T17:33:15.731Z"
+              "WhenOpened": "2024-06-28T16:14:05.105Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\ViewModels\\BaseViewModel.cs",
-              "RelativeDocumentMoniker": "Project_SthlmBostader\\ViewModels\\BaseViewModel.cs",
-              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\ViewModels\\BaseViewModel.cs",
-              "RelativeToolTip": "Project_SthlmBostader\\ViewModels\\BaseViewModel.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T17:32:46.264Z"
+              "DocumentIndex": 3,
+              "Title": "ArticlesPage.xaml",
+              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\ArticlesPage.xaml",
+              "RelativeDocumentMoniker": "Project_SthlmBostader\\Views\\ArticlesPage.xaml",
+              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\ArticlesPage.xaml",
+              "RelativeToolTip": "Project_SthlmBostader\\Views\\ArticlesPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-28T16:13:54.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AboutPage.xaml.cs",
-              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\AboutPage.xaml.cs",
-              "RelativeDocumentMoniker": "Project_SthlmBostader\\Views\\AboutPage.xaml.cs",
-              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\AboutPage.xaml.cs",
-              "RelativeToolTip": "Project_SthlmBostader\\Views\\AboutPage.xaml.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAcwG0AAAAMAAAA",
+              "Title": "FiltersPage.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\FiltersPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_SthlmBostader\\Views\\FiltersPage.xaml.cs",
+              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\FiltersPage.xaml.cs",
+              "RelativeToolTip": "Project_SthlmBostader\\Views\\FiltersPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T17:26:55.026Z",
+              "WhenOpened": "2024-06-28T16:10:58.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AboutPage.xaml",
-              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\AboutPage.xaml",
-              "RelativeDocumentMoniker": "Project_SthlmBostader\\Views\\AboutPage.xaml",
-              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\AboutPage.xaml",
-              "RelativeToolTip": "Project_SthlmBostader\\Views\\AboutPage.xaml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAABmAAAA",
+              "Title": "FiltersPage.xaml",
+              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\FiltersPage.xaml",
+              "RelativeDocumentMoniker": "Project_SthlmBostader\\Views\\FiltersPage.xaml",
+              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\Views\\FiltersPage.xaml",
+              "RelativeToolTip": "Project_SthlmBostader\\Views\\FiltersPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-27T17:10:15.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AboutViewModel.cs",
-              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\ViewModels\\AboutViewModel.cs",
-              "RelativeDocumentMoniker": "Project_SthlmBostader\\ViewModels\\AboutViewModel.cs",
-              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\ViewModels\\AboutViewModel.cs",
-              "RelativeToolTip": "Project_SthlmBostader\\ViewModels\\AboutViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T16:52:12.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GettingStarted.txt",
-              "DocumentMoniker": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\GettingStarted.txt",
-              "RelativeDocumentMoniker": "Project_SthlmBostader\\GettingStarted.txt",
-              "ToolTip": "D:\\Dev\\Visual Studio\\Project_SthlmBostader\\Project_SthlmBostader\\GettingStarted.txt",
-              "RelativeToolTip": "Project_SthlmBostader\\GettingStarted.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-06-27T16:50:57.25Z"
+              "WhenOpened": "2024-06-28T16:10:13.377Z",
+              "EditorCaption": ""
             }
           ]
         }
