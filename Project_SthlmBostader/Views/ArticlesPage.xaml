@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Project_SthlmBostader.Views.ArticlesPage">
+             xmlns:viewmodels="clr-namespace:Project_SthlmBostader.ViewModels"
+             x:Class="Project_SthlmBostader.Views.ArticlesPage"
+             x:DataType="viewmodels:ArticlesViewModel">
+    <ContentPage.BindingContext>
+        <viewmodels:ArticlesViewModel></viewmodels:ArticlesViewModel>
+    </ContentPage.BindingContext>
+    
     <ContentPage.Content>
         <StackLayout>
             <Label Text="Welcome to Xamarin.Forms!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
 
-            <WebView x:Name="WebView" Navigated="OnWebViewNavigated" />
+            <WebView 
+                x:Name="webView" 
+                Navigated="OnWebViewNavigated"
+                Source="{Binding WebViewSource}" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

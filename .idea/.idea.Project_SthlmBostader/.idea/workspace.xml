@@ -6,8 +6,14 @@
     <projectFile kind="XamarinAndroid">Project_SthlmBostader/Project_SthlmBostader.csproj</projectFile>
     <projectFile kind="XamarinIOS">Project_SthlmBostader/Project_SthlmBostader.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6e8a846d-9c9b-4074-9d63-c6511b31148e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Project_SthlmBostader/ViewModels/ArticlesViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project_SthlmBostader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project_SthlmBostader/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_SthlmBostader/Project_SthlmBostader.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Project_SthlmBostader/Project_SthlmBostader.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project_SthlmBostader/Views/ArticlesPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_SthlmBostader/Views/ArticlesPage.xaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project_SthlmBostader/Views/ArticlesPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project_SthlmBostader/Views/ArticlesPage.xaml.cs" afterDir="false" />
     </list>
@@ -18,6 +24,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ce7ca3ae0c404ea3b5c56dcc464c0a6313910/83/af76bba9/ICommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3ad6edf6ff6767cffd1f640dcd3347f91dd30f741142c8b17913def46eea45b/WebNavigatedEventArgs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3c10228e75e6392b5da27d27f935db3782ae18d4ff51814072413a43eee05a1c/ContentPage.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/ad26ae391e9ac7dab0d059c048b92a3be41542d5fc77a5329e123ab721/Command.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/c9999d431a4c9c5e9bb1217d5a3ba920fb4fc770ab6c28cff4162fd44476a3/WebView.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/dab592aa8e294f58af856656a61fce6c1d12efe2897b85142a96c1a728cf689/WebViewSource.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
@@ -30,13 +44,16 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2iYSeOtPokl73aVsytysliUhdnB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Android.Project_SthlmBostader.Android.executor": "Run",
+    "Android.Project_SthlmBostader.Android.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -98,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719666113150</updated>
       <workItem from="1719666115521" duration="162000" />
-      <workItem from="1719666290255" duration="517000" />
+      <workItem from="1719666290255" duration="5174000" />
     </task>
     <servers />
   </component>
@@ -108,5 +125,24 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Project_SthlmBostader/ViewModels/ArticlesViewModel.cs</url>
+          <line>104</line>
+          <properties documentPath="D:\Dev\Visual Studio\Project_SthlmBostader\Project_SthlmBostader\ViewModels\ArticlesViewModel.cs" containingFunctionPresentation="Method 'ParseHtmlToArticle'">
+            <startOffsets>
+              <option value="3784" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3803" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
