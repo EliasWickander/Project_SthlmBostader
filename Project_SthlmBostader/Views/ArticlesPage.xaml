@@ -14,8 +14,8 @@
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
 
-            <WebView 
-                x:Name="webView" 
+            <WebView
+                x:Name="webView"
                 Navigated="OnWebViewNavigated"
                 Source="{Binding WebViewSource}" />
         </StackLayout>

@@ -6,7 +6,7 @@ using Project_SthlmBostader.Models;
 
 namespace Project_SthlmBostader.ViewModels
 {
-    public class ArticlesViewModel : BindableObject
+    public class ArticlesViewModel : ViewModelBase
     {
         private string m_webViewSource = string.Empty;
 
@@ -21,7 +21,7 @@ namespace Project_SthlmBostader.ViewModels
                 if (m_webViewSource != value)
                 {
                     m_webViewSource = value;
-                    OnPropertyChanged(nameof(WebViewSource));
+                    OnPropertyChanged();
                 }
             }
         }

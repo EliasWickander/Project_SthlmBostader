@@ -17,6 +17,7 @@
     <PackageReference Include="HtmlAgilityPack" Version="1.11.61" />
     <PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
     <PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
+    <PackageReference Include="Refractored.MvvmHelpers" Version="1.6.2" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Update="Views\ArticlesPage.xaml">
@@ -25,8 +26,5 @@
     <EmbeddedResource Update="Views\FiltersPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="ViewModels\" />
   </ItemGroup>
 </Project>
