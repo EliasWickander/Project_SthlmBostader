@@ -8,7 +8,7 @@
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
 
-            <WebView x:Name="webView" Navigated="OnWebViewNavigated" />
+            <WebView x:Name="WebView" Navigated="OnWebViewNavigated" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

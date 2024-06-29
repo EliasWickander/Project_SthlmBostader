@@ -1,10 +1,4 @@
-﻿using Project_SthlmBostader.Views;
-using System;
-using Microsoft.Maui.Controls.Xaml;
-using Microsoft.Maui.Controls;
-using Microsoft.Maui;
-
-namespace Project_SthlmBostader
+﻿namespace Project_SthlmBostader
 {
     public partial class App : Application
     {

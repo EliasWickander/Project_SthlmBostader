@@ -1,15 +1,7 @@
 ﻿using HtmlAgilityPack;
 using Project_SthlmBostader.Models;
-using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-using Microsoft.Maui.Controls.Xaml;
-using Microsoft.Maui.Controls;
-using Microsoft.Maui;
 
 namespace Project_SthlmBostader.Views
 {
@@ -20,9 +12,9 @@ namespace Project_SthlmBostader.Views
         {
             InitializeComponent();
 
-            webView.Source = "https://bostad.stockholm.se/bostad?s=57.66891&n=60.99975&w=15.57861&e=19.35791&hide-filter=true&sort=annonserad-fran-desc&mobilvy=lista";
+            WebView.Source = "https://bostad.stockholm.se/bostad?s=57.66891&n=60.99975&w=15.57861&e=19.35791&hide-filter=true&sort=annonserad-fran-desc&mobilvy=lista";
 
-            webView.Navigated += OnWebViewNavigated;
+            WebView.Navigated += OnWebViewNavigated;
         }
 
         private async void OnWebViewNavigated(object sender, WebNavigatedEventArgs e)
@@ -35,7 +27,7 @@ namespace Project_SthlmBostader.Views
 
         private async Task<List<ArticleData>> DownloadArticles()
         {
-            string htmlContent = await webView.EvaluateJavaScriptAsync("document.documentElement.outerHTML");
+            string htmlContent = await WebView.EvaluateJavaScriptAsync("document.documentElement.outerHTML");
 
             //Decode encoded html caused by javascript evaluation
             htmlContent = Regex.Replace(htmlContent, @"\\[Uu]([0-9A-Fa-f]{4})", m => char.ToString((char)ushort.Parse(m.Groups[1].Value, NumberStyles.AllowHexSpecifier)));

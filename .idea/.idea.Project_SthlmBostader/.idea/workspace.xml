@@ -7,7 +7,10 @@
     <projectFile kind="XamarinIOS">Project_SthlmBostader/Project_SthlmBostader.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e8a846d-9c9b-4074-9d63-c6511b31148e" name="Changes" comment="" />
+    <list default="true" id="6e8a846d-9c9b-4074-9d63-c6511b31148e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Project_SthlmBostader/Views/ArticlesPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_SthlmBostader/Views/ArticlesPage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_SthlmBostader/Views/ArticlesPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project_SthlmBostader/Views/ArticlesPage.xaml.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +39,10 @@
     "Android.Project_SthlmBostader.Android.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "SolutionBuilderGeneralOptionsPage",
     "vue.rearranger.settings.migration": "true"
@@ -91,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719666113150</updated>
       <workItem from="1719666115521" duration="162000" />
-      <workItem from="1719666290255" duration="209000" />
+      <workItem from="1719666290255" duration="517000" />
     </task>
     <servers />
   </component>

@@ -1,5 +1,3 @@
-using Project_SthlmBostader.Views;
-
 namespace Project_SthlmBostader;
 
 public static class MauiProgramExtensions
