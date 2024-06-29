@@ -1,13 +1,13 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_SthlmBostader.Android", "Project_SthlmBostader.Android\Project_SthlmBostader.Android.csproj", "{29FDEE15-7537-4AEF-B074-27C69961D3E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project_SthlmBostader.Android", "Project_SthlmBostader.Android\Project_SthlmBostader.Android.csproj", "{29FDEE15-7537-4AEF-B074-27C69961D3E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_SthlmBostader.iOS", "Project_SthlmBostader.iOS\Project_SthlmBostader.iOS.csproj", "{59D83376-C078-4962-B18B-8DEEAD7A9B12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project_SthlmBostader.iOS", "Project_SthlmBostader.iOS\Project_SthlmBostader.iOS.csproj", "{59D83376-C078-4962-B18B-8DEEAD7A9B12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_SthlmBostader", "Project_SthlmBostader\Project_SthlmBostader.csproj", "{8180C042-F7F6-485A-B399-2D388AE1F9FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project_SthlmBostader", "Project_SthlmBostader\Project_SthlmBostader.csproj", "{8180C042-F7F6-485A-B399-2D388AE1F9FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

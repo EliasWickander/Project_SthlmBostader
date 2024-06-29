@@ -1,7 +1,8 @@
 ﻿using Project_SthlmBostader.Views;
 using System;
-using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
+using Microsoft.Maui.Controls.Xaml;
+using Microsoft.Maui.Controls;
+using Microsoft.Maui;
 
 namespace Project_SthlmBostader
 {
